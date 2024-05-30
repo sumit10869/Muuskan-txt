@@ -209,12 +209,7 @@ async def account_login(bot: Client, m: Message):
                         time.sleep(e.x)
                         continue
                 else:
-                    Show = f"**❊⟱𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ⟱❊ »**\n\n**📝 𝐍𝐚𝐦𝐞 »** `{name}\n⌨ 𝐐𝐮𝐥𝐢𝐭𝐲 » {raw_text2}`\n\n**🔗 𝐔𝐑𝐋 »** `{url}`\n\n🤖
-        await m.reply_text(e)
-    await m.reply_text("**🚦𝐃𝐨𝐧𝐞🚦\n𝐒𝐛 𝐍𝐢𝐤𝐚𝐥 𝐃𝐢𝐲𝐚 𝐁𝐚𝐛𝐞💕\n 𝐌𝐔𝐒𝐓 𝐉𝐎𝐈𝐍 [madno� 𝙎𝙏𝙊𝙍𝙀 🇮🇳](http://t.me/madnoStore)**")
-
-
-bot.run()𝐌𝐚𝐝𝐞 𝐁𝐲  : [madno ᥫ᭡](http://t.me/ur_madno)\n"
+                             Show = f"**❊⟱𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ⟱❊ »**\n\n**📝 𝐍𝐚𝐦𝐞 »** `{name}\n⌨ 𝐐𝐮𝐥𝐢𝐭𝐲 » {raw_text2}`\n\n**🔗 𝐔𝐑𝐋 »** `{url}`\n\n🤖𝐌𝐚𝐝𝐞 𝐁𝐲  : [madnoᥫ᭡](http://t.me/ur_madno)\n"
                     prog = await m.reply_text(Show)
                     res_file = await helper.download_video(url, cmd, name)
                     filename = res_file
