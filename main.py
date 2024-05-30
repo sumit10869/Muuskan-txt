@@ -38,7 +38,7 @@ async def account_login(bot: Client, m: Message):
 𝐀𝐧𝐝 𝐓𝐡𝐞𝐧 𝐔𝐩𝐥𝐨𝐚𝐝 𝐓𝐡𝐚𝐭 𝐅𝐢𝐥𝐞 𝐎𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐒𝐨 𝐁𝐚𝐬𝐢𝐜𝐚𝐥𝐥𝐲 𝐈𝐟 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐔𝐬𝐞 𝐌𝐞 𝐅𝐢𝐫𝐬𝐭 𝐒𝐞𝐧𝐝 𝐌𝐞 ⟰ /madno 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐀𝐧𝐝 𝐓𝐡𝐞𝐧 𝐅𝐨𝐥𝐥𝐨𝐰 𝐅𝐞𝐰 𝐒𝐭𝐞𝐩𝐬..
 𝐍𝐎 𝐀𝐍𝐘 𝐄𝐑𝐑𝐎𝐑.
 
-🤖𝐌𝐚𝐝𝐞 𝐁𝐲  : [madno� ᥫ᭡](http://t.me/madno) """, reply_markup=InlineKeyboardMarkup(
+🤖𝐌𝐚𝐝𝐞 𝐁𝐲  : [madno� ᥫ᭡](http://t.me/ur_madno) """, reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton("✜ 𝐌𝐮𝐬𝐭 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✜" ,url=f"https://t.me/madnoStore") ],
